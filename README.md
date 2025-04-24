@@ -1,10 +1,10 @@
 # LWC Dev Buddy README
 
-The LWC Dev Buddy is a extension to help you visualize and debug the new or existing LWC Structures in your org.
+The LWC Dev Buddy is an extension that helps you visualize and debug new or existing LWC structures in your Salesforce Organization.
 
 ## Features
 
-The feature of "Set this LWC as Main LWC" will create an tree with all the child components, variables and events of the specified LWC.
+The feature "Set this LWC as Main LWC" will create a tree with all the child components, variables and events of the specified LWC.
 
 \!\[feature A\]\(img/Option_setLWCAsMainLWC.png\)
 \!\[feature X\]\(img/print_01_example.png\)

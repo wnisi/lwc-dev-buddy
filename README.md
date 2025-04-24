@@ -6,9 +6,13 @@ The LWC Dev Buddy is an extension that helps you visualize and debug new or exis
 
 The feature "Set this LWC as Main LWC" will create a tree with all the child components, variables and events of the specified LWC.
 
-\!\[feature A\]\(img/Option_setLWCAsMainLWC.png\)
-![feature X](img/print_01_example.png)
+#### Set LWC as Main LWC
 
+!["Set LWC as Main LWC" Access](img/Option_setLWCAsMainLWC.png)
+
+#### LWC Hierarchy view
+
+![LWC Hierarchy view](img/print_01_example.png)
 
 ## Requirements
 
